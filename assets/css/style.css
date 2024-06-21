@@ -105,12 +105,14 @@ h3 {
     color: #11696F;
     font-weight: bolder;
     font-size: 16px;
+    text-decoration: none;
 }
 
 .card-list {
     margin-top: 10px;
     padding-left: 30px;
     padding-bottom: 20px;
+    text-align: center;
 }
 
 .card-list .card {
@@ -130,6 +132,9 @@ h3 {
     border-radius: 20px;
 }
 
+/* .card-list .card:first-child{
+    margin-left: 30px;
+} */
 .img-vr img {
     width: 100%;
 }
